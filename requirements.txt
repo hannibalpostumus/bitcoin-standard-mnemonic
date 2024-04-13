@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+chardet==5.2.0
+EbookLib==0.18
+lxml==5.2.1
+mnemonic==0.21
+pillow==10.3.0
+reportlab==4.1.0
+six==1.16.0
+soupsieve==2.5
